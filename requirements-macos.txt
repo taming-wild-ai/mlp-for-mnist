@@ -1,0 +1,2 @@
+tensorflow-macos==2.11.0
+tensorflow-datasets==4.8.0
